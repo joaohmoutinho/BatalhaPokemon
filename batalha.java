@@ -7,7 +7,6 @@ public class Batalha {
     private String outroPokemonNome;
     
     
-    //Metodos
     public void meuPokemon(String nome, int hp){
         this.meuPokemonHP = hp;
         this.meuPokemonNome = nome;

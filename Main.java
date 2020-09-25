@@ -2,7 +2,6 @@ public class Pokemon {
 
 //Criar os atributos genericos de um pokemon
     //Atributos genericos do pokemon
-    // Encapsulamento
     private String nome;
     private String tipo;
     private int level;
